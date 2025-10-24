@@ -1,0 +1,5 @@
+{
+  "name": "Water Footprint Calculator",
+  "description": "An intelligent calculator that estimates your daily water footprint based on your diet, hygiene, and consumption habits, and provides AI-powered recommendations for reduction.",
+  "requestFramePermissions": []
+}
